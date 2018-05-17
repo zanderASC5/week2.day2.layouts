@@ -1,33 +1,21 @@
+/* PREMADE */
 body{
     margin:0;
 }
+/* END OF PREMADE */
+
 .main_container{
-    display:flex;
-    height: 100vh;
+
 }
 
 .sidebar{
-    flex-shrink: 0;
-    width:30%;
-    background:
-    linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), 
-    url(../../assets/crash.jpg);
-    background-position-x: center;
-    display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-    color: white;
-    align-items: center;
-    padding-bottom: 40px;
+
 }
 
 .sidebar img{
-    width: 72px;
-    filter: invert(1);
+
 }
 
 .scrolling_content{
-    padding: 26px;
-    overflow-y: scroll;
-    text-align: center;
+
 }
