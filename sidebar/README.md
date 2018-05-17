@@ -1,5 +1,5 @@
 # To Do List
-1. ![Wireframe]()
+1. ![Wireframe](https://github.com/AllStarCodeOrg/week2.day2.layouts/blob/master/sidebar/wireframe.png?raw=true)
 2. You've been given the HTML for this exercise. So just focus on the CSS.
 3. First, set up the `.main_container` div
    - The items in this div will be positioned using the flexbox model
