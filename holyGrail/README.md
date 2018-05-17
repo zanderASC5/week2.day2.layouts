@@ -1,5 +1,5 @@
 # To Do List
-1. ![Wireframe]()
+1. ![Wireframe](https://github.com/AllStarCodeOrg/week2.day2.layouts/blob/master/holyGrail/wireframe.png?raw=true)
 2. You've been given the HTML and some CSS for this exercise. Take a minute to look at the general structure of the HTML to get a feel for how things are organized.
 3. Start with the `.main_container`
    - The items in this div will be positioned using the flexbox model
