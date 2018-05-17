@@ -16,3 +16,4 @@
 - [W3Schools Flexbox Model](https://www.w3schools.com/css/css3_flexbox.asp)
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+Thanks to [Iconic](https://useiconic.com/open) for the SVGs!
